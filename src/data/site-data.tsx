@@ -58,11 +58,11 @@ export type ResourceItem = {
 
 export const navLinks: NavLink[] = [
   { label: "Home", href: "#hero" },
+  { label: "About", href: "#about" },
   { label: "Solutions", href: "#solutions" },
   { label: "Programs", href: "#programs" },
   { label: "Insights", href: "#insights" },
   { label: "Resources", href: "#resources" },
-  { label: "About", href: "#about" },
 ];
 
 export const heroBadges = [
